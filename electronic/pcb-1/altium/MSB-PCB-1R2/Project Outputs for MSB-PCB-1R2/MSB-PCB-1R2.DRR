@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MSB-PCB-1R2.PcbDoc   9 Aug 2021  20:08:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MSB-PCB-1R2-RoundHoles.TXT
+ASCII SlotHoles File : MSB-PCB-1R2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             21        PTH        117.57mm (4.63inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        4.85mm (0.19inch)
+T3      0.7mm (28mil)                                             Slot              2         PTH        16.04mm (0.63inch)
+T4      1.1mm (43mil)                                             Round             16        PTH        133.36mm (5.25inch)
+T5      1.2mm (47mil)                                             Round             46        PTH        207.35mm (8.16inch)
+T6      1.2mm (47mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T7      3mm (118mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              89
+
+Total Processing Time (hh:mm:ss) : 00:00:00

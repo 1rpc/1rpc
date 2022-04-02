@@ -1,0 +1,2317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="122.6188mm"
+   height="54.948357mm"
+   viewBox="0 0 122.6188 54.948357"
+   version="1.1"
+   id="svg1270"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="msb-pcb-1r1 - PIN-Belegung - digital IO.svg"
+   inkscape:export-filename="D:\co\1rpc\electronic\pcb-1\graphic\msb-pcb-1r1 - PIN-Belegung.png"
+   inkscape:export-xdpi="299.82047"
+   inkscape:export-ydpi="299.82047"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1272"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="4.3891313"
+     inkscape:cx="224.19015"
+     inkscape:cy="79.970267"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="mm"
+     lock-margins="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3691"
+       originx="-44.925259"
+       originy="-35.494615" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1267">
+    <rect
+       x="192"
+       y="105.6"
+       width="422.39999"
+       height="259.20001"
+       id="rect9159" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.925259,-35.494616)">
+    <path
+       id="rect1367-9-8"
+       style="opacity:0.998786;fill:#333333;stroke:#000000;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.246949;stroke-opacity:1"
+       d="m 78.909259,38.420398 45.239751,0.09203 c 0.7881,-0.01909 2.83879,0.577365 2.84201,2.770407 l 0.0239,10.225744 -2.99667,2.930601 c -0.18584,0.207251 -0.28528,0.407857 -0.30875,0.602637 l -0.0824,18.035576 3.24359,3.438266 0.003,9.936621 c -0.028,1.301053 -0.92394,2.814842 -2.5295,2.82285 H 79.488946 C 77.133651,89.24955 76.177843,87.335675 76.188167,86.770861 V 76.281022 l 3.205403,-3.146636 -0.01765,-18.608554 -3.215568,-3.171728 0.02781,-10.403046 c 0.244789,-1.679132 1.241073,-2.410047 2.721092,-2.53062 z"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,82.907923 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,80.368613 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-9"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,77.829292 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-2"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,75.289986 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-91"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,72.750674 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-28"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,70.211365 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-9-8"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,67.672047 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-2-3"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,65.132733 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930174 0.93018847,0.93018847 0 0 0 0.93018,0.930177 0.93018847,0.93018847 0 0 0 0.93018,-0.930177 0.93018847,0.93018847 0 0 0 -0.93018,-0.930174 z m 0,0.599962 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-7"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,62.593419 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-7"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,60.054106 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-9-2"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,57.514796 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-2-9"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,54.975479 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-91-4"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,52.436163 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930177 0.93018847,0.93018847 0 0 0 0.93018,-0.930177 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-28-7"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,49.896855 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-9-8-3"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,47.357542 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-2-3-2"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,44.818227 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-9-8-3-9"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.89526,42.278913 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="path3777-3-2-3-2-9"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.92046,39.739602 a 0.93018847,0.93018847 0 0 0 -0.93018,0.930175 0.93018847,0.93018847 0 0 0 0.93018,0.930176 0.93018847,0.93018847 0 0 0 0.93018,-0.930176 0.93018847,0.93018847 0 0 0 -0.93018,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.33021,0.330212 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.330212 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <path
+       id="rect3801"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+       d="m 121.17591,85.447242 c -0.1,0 -0.18036,0.08088 -0.18036,0.180867 v 1.499134 c 0,0.09998 0.0804,0.18035 0.18036,0.18035 h 1.49965 c 0.1,0 0.18035,-0.08036 0.18035,-0.18035 v -1.499134 c 0,-0.09999 -0.0804,-0.180867 -0.18035,-0.180867 z m 0.74982,0.60048 a 0.33018851,0.33018851 0 0 1 0.33021,0.329695 0.33018851,0.33018851 0 0 1 -0.33021,0.330213 0.33018851,0.33018851 0 0 1 -0.33021,-0.330213 0.33018851,0.33018851 0 0 1 0.33021,-0.329695 z"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <g
+       id="g62551"
+       style="fill:#f2f2f2"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <path
+         id="path3777-76"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,82.88131 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-0"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,80.341058 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-9-7"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,77.800807 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-2-39"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,75.260555 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-91-5"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,72.720303 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-28-0"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,70.180051 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-9-8-9"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,67.639799 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-2-3-9"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,65.099547 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930177 0.93018847,0.93018847 0 0 0 0.930176,-0.930177 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330214 0.33018851,0.33018851 0 0 1 -0.330212,-0.330214 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-7-6"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,62.559295 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-7-4"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,60.019043 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-9-2-6"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,57.478791 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-2-9-6"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,54.938539 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-91-4-3"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,52.398287 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330214 0.33018851,0.33018851 0 0 1 -0.330212,-0.330214 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-28-7-4"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,49.858035 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-9-8-3-5"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,47.317783 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-2-3-2-94"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,44.777532 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-9-8-3-9-3"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,42.23728 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="path3777-3-2-3-2-9-4"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 81.28953,39.697028 a 0.93018847,0.93018847 0 0 0 -0.930176,0.930175 0.93018847,0.93018847 0 0 0 0.930176,0.930176 0.93018847,0.93018847 0 0 0 0.930176,-0.930176 0.93018847,0.93018847 0 0 0 -0.930176,-0.930175 z m 0,0.599963 a 0.33018851,0.33018851 0 0 1 0.330212,0.330212 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.330212 z" />
+      <path
+         id="rect3801-0"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 80.539705,85.421562 c -0.09999,0 -0.180351,0.08088 -0.180351,0.180867 v 1.499134 c 0,0.09998 0.08036,0.18035 0.180351,0.18035 h 1.49965 c 0.09998,0 0.180351,-0.08036 0.180351,-0.18035 v -1.499134 c 0,-0.09999 -0.08036,-0.180867 -0.180351,-0.180867 z m 0.749825,0.60048 a 0.33018851,0.33018851 0 0 1 0.330212,0.329695 0.33018851,0.33018851 0 0 1 -0.330212,0.330213 0.33018851,0.33018851 0 0 1 -0.330212,-0.330213 0.33018851,0.33018851 0 0 1 0.330212,-0.329695 z" />
+    </g>
+    <g
+       id="g62935"
+       transform="translate(67.279172,-30.045613)"
+       style="fill:#e6e6e6"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <path
+         id="path3777-76-5"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="M 50.8,95.919268 A 0.93018847,0.93018847 0 0 0 49.869824,96.849443 0.93018847,0.93018847 0 0 0 50.8,97.779619 0.93018847,0.93018847 0 0 0 51.730176,96.849443 0.93018847,0.93018847 0 0 0 50.8,95.919268 Z m 0,0.599963 A 0.33018851,0.33018851 0 0 1 51.130212,96.849443 0.33018851,0.33018851 0 0 1 50.8,97.179656 0.33018851,0.33018851 0 0 1 50.469788,96.849443 0.33018851,0.33018851 0 0 1 50.8,96.519231 Z" />
+      <path
+         id="path3777-3-0-1"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="M 50.8,93.379016 A 0.93018847,0.93018847 0 0 0 49.869824,94.309191 0.93018847,0.93018847 0 0 0 50.8,95.239367 0.93018847,0.93018847 0 0 0 51.730176,94.309191 0.93018847,0.93018847 0 0 0 50.8,93.379016 Z m 0,0.599963 A 0.33018851,0.33018851 0 0 1 51.130212,94.309191 0.33018851,0.33018851 0 0 1 50.8,94.639404 0.33018851,0.33018851 0 0 1 50.469788,94.309191 0.33018851,0.33018851 0 0 1 50.8,93.978979 Z" />
+      <path
+         id="path3777-9-7-0"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="M 50.8,90.838765 A 0.93018847,0.93018847 0 0 0 49.869824,91.76894 0.93018847,0.93018847 0 0 0 50.8,92.699116 0.93018847,0.93018847 0 0 0 51.730176,91.76894 0.93018847,0.93018847 0 0 0 50.8,90.838765 Z m 0,0.599963 A 0.33018851,0.33018851 0 0 1 51.130212,91.76894 0.33018851,0.33018851 0 0 1 50.8,92.099153 0.33018851,0.33018851 0 0 1 50.469788,91.76894 0.33018851,0.33018851 0 0 1 50.8,91.438728 Z" />
+      <path
+         id="path3777-3-2-39-8"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="M 50.8,88.298513 A 0.93018847,0.93018847 0 0 0 49.869824,89.228688 0.93018847,0.93018847 0 0 0 50.8,90.158864 0.93018847,0.93018847 0 0 0 51.730176,89.228688 0.93018847,0.93018847 0 0 0 50.8,88.298513 Z m 0,0.599963 A 0.33018851,0.33018851 0 0 1 51.130212,89.228688 0.33018851,0.33018851 0 0 1 50.8,89.558901 0.33018851,0.33018851 0 0 1 50.469788,89.228688 0.33018851,0.33018851 0 0 1 50.8,88.898476 Z" />
+      <path
+         id="path3777-91-5-3"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="M 50.8,85.758261 A 0.93018847,0.93018847 0 0 0 49.869824,86.688436 0.93018847,0.93018847 0 0 0 50.8,87.618612 0.93018847,0.93018847 0 0 0 51.730176,86.688436 0.93018847,0.93018847 0 0 0 50.8,85.758261 Z m 0,0.599963 A 0.33018851,0.33018851 0 0 1 51.130212,86.688436 0.33018851,0.33018851 0 0 1 50.8,87.018649 0.33018851,0.33018851 0 0 1 50.469788,86.688436 0.33018851,0.33018851 0 0 1 50.8,86.358224 Z" />
+      <path
+         id="rect3801-0-9"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.139623;stroke-dashoffset:1.60385"
+         d="m 50.050175,98.45952 c -0.09999,0 -0.180351,0.08088 -0.180351,0.180867 v 1.499133 c 0,0.1 0.08036,0.18035 0.180351,0.18035 h 1.49965 c 0.09998,0 0.180351,-0.0804 0.180351,-0.18035 v -1.499133 c 0,-0.09999 -0.08036,-0.180867 -0.180351,-0.180867 z M 50.8,99.06 A 0.33018851,0.33018851 0 0 1 51.130212,99.389695 0.33018851,0.33018851 0 0 1 50.8,99.719908 0.33018851,0.33018851 0 0 1 50.469788,99.389695 0.33018851,0.33018851 0 0 1 50.8,99.06 Z" />
+    </g>
+    <g
+       id="g7092"
+       transform="translate(78.520361,37.915602)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#ececec;stroke:#000000;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect6926"
+         width="15.854736"
+         height="24.354736"
+         x="15.24"
+         y="27.100002"
+         ry="0.18048446"
+         rx="0.18048446" />
+      <rect
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect6926-7"
+         width="15.854736"
+         height="8.3547363"
+         x="15.24"
+         y="43.100002"
+         ry="0.18048446"
+         rx="0.18048446" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9157"
+       style="font-size:16px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';white-space:pre;shape-inside:url(#rect9159)" />
+    <g
+       id="g23879"
+       transform="translate(62.160835,29.209766)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SENSOR_VN</tspan></text>
+    </g>
+    <g
+       id="g23879-5"
+       transform="translate(62.171703,31.747957)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SENSOR_VP</tspan></text>
+    </g>
+    <g
+       id="g23879-2"
+       transform="translate(62.182333,34.286147)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">EN</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5"
+       transform="translate(62.1932,36.824338)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">VDD33</tspan></text>
+    </g>
+    <g
+       id="g23879-3"
+       transform="translate(62.182572,19.057018)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-0"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO33</tspan></text>
+    </g>
+    <g
+       id="g23879-5-1"
+       transform="translate(62.19344,21.595201)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-4"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO32</tspan></text>
+    </g>
+    <g
+       id="g23879-2-2"
+       transform="translate(62.20407,24.133391)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-1"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-5"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO35</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-6"
+       transform="translate(62.214936,26.671582)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-9"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO34</tspan></text>
+    </g>
+    <g
+       id="g23879-55"
+       transform="translate(62.269042,8.9042599)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-1"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO14</tspan></text>
+    </g>
+    <g
+       id="g23879-5-4"
+       transform="translate(62.27991,11.442447)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-1"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-75"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO27</tspan></text>
+    </g>
+    <g
+       id="g23879-2-6"
+       transform="translate(62.29054,13.980637)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-4"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO26</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-7"
+       transform="translate(62.301406,16.518828)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-93"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO25</tspan></text>
+    </g>
+    <g
+       id="g23879-3-4"
+       transform="translate(62.290779,-1.2484922)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-0-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-0-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-1-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SD2</tspan></text>
+    </g>
+    <g
+       id="g23879-5-1-4"
+       transform="translate(62.301647,1.2896992)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-4-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-5-9"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-6-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO13_TCK</tspan></text>
+    </g>
+    <g
+       id="g23879-2-2-9"
+       transform="translate(62.312277,3.8278807)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-1-5"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-5-8"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">GND</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-6-5"
+       transform="translate(62.323143,6.366072)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-9-3"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-4-1"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-7-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO12</tspan></text>
+    </g>
+    <g
+       id="g23879-5-6"
+       transform="translate(62.074604,-8.8630567)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-6"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">EXT_5V</tspan></text>
+    </g>
+    <g
+       id="g23879-2-1"
+       transform="translate(62.171703,-6.3248701)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-9"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">CMD</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-3"
+       transform="translate(62.18257,-3.7866788)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-94"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SD3</tspan></text>
+    </g>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-1-4"
+       width="9"
+       height="2.154736"
+       x="138.23094"
+       y="59.939827"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="138.89931"
+       y="61.418892"
+       id="text10925-5-8-4-75-7"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="138.89931"
+         y="61.418892">GPIO 27</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-0-6"
+       width="9"
+       height="2.154736"
+       x="138.24158"
+       y="62.47802"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="138.90994"
+       y="63.957085"
+       id="text10925-5-8-45-4-6"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="138.90994"
+         y="63.957085">GPIO 26</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-93-5"
+       width="9"
+       height="2.154736"
+       x="138.25244"
+       y="65.016212"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="138.92081"
+       y="66.495277"
+       id="text10925-5-8-4-7-1-5"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="138.92081"
+         y="66.495277">GPIO 25</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-4-7-8"
+       width="9"
+       height="2.154736"
+       x="138.25267"
+       y="49.787079"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="138.92104"
+       y="51.266144"
+       id="text10925-5-8-4-5-9-1"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-6-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="138.92104"
+         y="51.266144">GPIO 13</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-1-1"
+       width="9"
+       height="2.154736"
+       x="147.84875"
+       y="77.646011"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.51712"
+       y="79.125076"
+       id="text10925-5-8-3-9"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-09-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.51712"
+         y="79.125076">GPIO 39</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-0-9"
+       width="9"
+       height="2.154736"
+       x="147.85962"
+       y="80.184204"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.52798"
+       y="81.663269"
+       id="text10925-5-8-4-8-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-33-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.52798"
+         y="81.663269">GPIO 36</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-1-1-9"
+       width="9"
+       height="2.154736"
+       x="147.892"
+       y="72.569641"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.56036"
+       y="74.048706"
+       id="text10925-5-8-45-5-1-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-7-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.56036"
+         y="74.048706">GPIO 35</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-9-2-1"
+       width="9"
+       height="2.154736"
+       x="147.90286"
+       y="75.107826"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.57123"
+       y="76.586891"
+       id="text10925-5-8-4-7-4-3-9"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-7-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.57123"
+         y="76.586891">GPIO 34</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-1-4-3"
+       width="9"
+       height="2.154736"
+       x="147.96783"
+       y="59.878696"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.6362"
+       y="61.357761"
+       id="text10925-5-8-4-75-7-1"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-2-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.6362"
+         y="61.357761">GPIO 27</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-0-6-3"
+       width="9"
+       height="2.154736"
+       x="147.97847"
+       y="62.416889"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.64684"
+       y="63.895954"
+       id="text10925-5-8-45-4-6-1"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-6-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.64684"
+         y="63.895954">GPIO 26</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-93-5-2"
+       width="9"
+       height="2.154736"
+       x="147.98933"
+       y="64.955078"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.6577"
+       y="66.434143"
+       id="text10925-5-8-4-7-1-5-2"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-5-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.6577"
+         y="66.434143">GPIO 25</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-4-7-8-9"
+       width="9"
+       height="2.154736"
+       x="147.98956"
+       y="49.725948"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="148.65793"
+       y="51.205013"
+       id="text10925-5-8-4-5-9-1-3"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-6-9-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="148.65793"
+         y="51.205013">GPIO 13</tspan></text>
+    <g
+       id="g23879-8"
+       transform="translate(-0.88730464,29.149573)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-05"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-05"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">TXD0</tspan></text>
+    </g>
+    <g
+       id="g23879-5-3"
+       transform="translate(-0.87643664,31.687764)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-2"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-53"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO22</tspan></text>
+    </g>
+    <g
+       id="g23879-2-5"
+       transform="translate(-0.86580664,34.225954)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-73"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-7"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO23</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-35"
+       transform="translate(-0.85493964,36.764145)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">GND</tspan></text>
+    </g>
+    <g
+       id="g23879-3-2"
+       transform="translate(-0.86556764,18.996825)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-0-9"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO19</tspan></text>
+    </g>
+    <g
+       id="g23879-5-1-6"
+       transform="translate(-0.85469964,21.535008)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-4-70"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-5-8"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-6-92"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">N.C.</tspan></text>
+    </g>
+    <g
+       id="g23879-2-2-8"
+       transform="translate(-0.84406964,24.073198)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-1-9"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-5-86"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO21</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-6-0"
+       transform="translate(-0.83320364,26.611389)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-9-4"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-4-13"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">RXD0</tspan></text>
+    </g>
+    <g
+       id="g23879-55-7"
+       transform="translate(-0.77909764,8.8440671)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-7-9"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO16</tspan></text>
+    </g>
+    <g
+       id="g23879-5-4-6"
+       transform="translate(-0.76822964,11.382254)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-1-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-75-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-2-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO17</tspan></text>
+    </g>
+    <g
+       id="g23879-2-6-5"
+       transform="translate(-0.75759964,13.920444)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-0-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-6-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO5</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-7-7"
+       transform="translate(-0.74673364,16.458635)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-93-6"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-1-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-5-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO18</tspan></text>
+    </g>
+    <g
+       id="g23879-3-4-0"
+       transform="translate(-0.75736064,-1.3086849)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-0-0-2"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-0-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-1-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO15</tspan></text>
+    </g>
+    <g
+       id="g23879-5-1-4-0"
+       transform="translate(-0.74649264,1.2295061)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-4-7-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-5-9-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-6-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO2</tspan></text>
+    </g>
+    <g
+       id="g23879-2-2-9-3"
+       transform="translate(-0.73586264,3.7676881)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-1-5-0"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-5-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-7-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO0</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-6-5-8"
+       transform="translate(-0.72499664,6.3058791)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-9-3-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-4-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-7-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">IO4</tspan></text>
+    </g>
+    <g
+       id="g23879-5-6-3"
+       transform="translate(-0.97353564,-8.9232499)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-7-7"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-6-0"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">CLK</tspan></text>
+    </g>
+    <g
+       id="g23879-2-1-9"
+       transform="translate(-0.87643664,-6.3850629)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-9-7-6"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-45-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-0-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SD0</tspan></text>
+    </g>
+    <g
+       id="g23879-5-5-3-7"
+       transform="translate(-0.86556964,-3.8468719)"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+         id="rect7205-0-4-5-3-94-6"
+         width="9"
+         height="2.154736"
+         x="66.227646"
+         y="48.515907"
+         rx="0.18048446"
+         ry="0.18048446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+         x="66.896011"
+         y="49.994972"
+         id="text10925-5-8-4-7-9-1"><tspan
+           sodipodi:role="line"
+           id="tspan10923-3-4-9-3-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#ffffff;stroke-width:0.264583"
+           x="66.896011"
+           y="49.994972">SD1</tspan></text>
+    </g>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-2-3"
+       width="9"
+       height="2.154736"
+       x="55.620415"
+       y="80.265205"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.28878"
+       y="81.74427"
+       id="text10925-5-8-4-53-5"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.28878"
+         y="81.74427">GPIO 22</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-73-1"
+       width="9"
+       height="2.154736"
+       x="55.631042"
+       y="82.803398"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.299408"
+       y="84.282463"
+       id="text10925-5-8-45-7-3"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.299408"
+         y="84.282463">GPIO 23</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-0-9-3"
+       width="9"
+       height="2.154736"
+       x="55.631283"
+       y="67.574272"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.299648"
+       y="69.053337"
+       id="text10925-5-8-0-3-1"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-1-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.299648"
+         y="69.053337">GPIO 19</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-1-9-6"
+       width="9"
+       height="2.154736"
+       x="55.652779"
+       y="72.650642"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.321144"
+       y="74.129707"
+       id="text10925-5-8-45-5-86-4"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-7-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.321144"
+         y="74.129707">GPIO 21</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-7-9-7"
+       width="9"
+       height="2.154736"
+       x="55.717754"
+       y="57.421509"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.38612"
+       y="58.900574"
+       id="text10925-5-8-1-9-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-5-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.38612"
+         y="58.900574">GPIO 16</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-1-0-9"
+       width="9"
+       height="2.154736"
+       x="55.728619"
+       y="59.959694"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.396984"
+       y="61.438759"
+       id="text10925-5-8-4-75-2-9"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-2-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.396984"
+         y="61.438759">GPIO 17</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-0-7-1"
+       width="9"
+       height="2.154736"
+       x="55.73925"
+       y="62.497883"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.407616"
+       y="63.976948"
+       id="text10925-5-8-45-4-8-6"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-6-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.407616"
+         y="63.976948">GPIO  5</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-93-6-0"
+       width="9"
+       height="2.154736"
+       x="55.750118"
+       y="65.036079"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.418484"
+       y="66.515144"
+       id="text10925-5-8-4-7-1-2-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-5-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.418484"
+         y="66.515144">GPIO 18</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-4-7-0-6"
+       width="9"
+       height="2.154736"
+       x="55.750359"
+       y="49.806946"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.418724"
+       y="51.286011"
+       id="text10925-5-8-4-5-9-2-8"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-6-9-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.418724"
+         y="51.286011">GPIO  2</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-9-3-7-5"
+       width="9"
+       height="2.154736"
+       x="55.771854"
+       y="54.88332"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="56.44022"
+       y="56.362385"
+       id="text10925-5-8-4-7-4-1-0-7"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-7-1-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="56.44022"
+         y="56.362385">GPIO  4</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-2-3-0"
+       width="9"
+       height="2.154736"
+       x="45.925259"
+       y="80.345741"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.593624"
+       y="81.824806"
+       id="text10925-5-8-4-53-5-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-1-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.593624"
+         y="81.824806">GPIO 22</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-73-1-9"
+       width="9"
+       height="2.154736"
+       x="45.935886"
+       y="82.883934"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.604252"
+       y="84.363007"
+       id="text10925-5-8-45-7-3-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-2-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.604252"
+         y="84.363007">GPIO 23</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-0-9-3-8"
+       width="9"
+       height="2.154736"
+       x="45.936127"
+       y="67.654808"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.604492"
+       y="69.133873"
+       id="text10925-5-8-0-3-1-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-1-5-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.604492"
+         y="69.133873">GPIO 19</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-1-9-6-7"
+       width="9"
+       height="2.154736"
+       x="45.957623"
+       y="72.731171"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.625988"
+       y="74.210243"
+       id="text10925-5-8-45-5-86-4-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-7-6-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.625988"
+         y="74.210243">GPIO 21</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-7-9-7-6"
+       width="9"
+       height="2.154736"
+       x="46.022598"
+       y="57.502045"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.690964"
+       y="58.98111"
+       id="text10925-5-8-1-9-0-4"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-5-9-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.690964"
+         y="58.98111">GPIO 16</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-1-0-9-6"
+       width="9"
+       height="2.154736"
+       x="46.033463"
+       y="60.04023"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.701828"
+       y="61.519295"
+       id="text10925-5-8-4-75-2-9-9"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-2-7-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.701828"
+         y="61.519295">GPIO 17</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-9-0-7-1-7"
+       width="9"
+       height="2.154736"
+       x="46.044094"
+       y="62.578415"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.71246"
+       y="64.05748"
+       id="text10925-5-8-45-4-8-6-0"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-6-4-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.71246"
+         y="64.05748">GPIO  5</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-93-6-0-1"
+       width="9"
+       height="2.154736"
+       x="46.054962"
+       y="65.116615"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.723328"
+       y="66.59568"
+       id="text10925-5-8-4-7-1-2-0-2"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-5-0-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.723328"
+         y="66.59568">GPIO 18</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-4-7-0-6-6"
+       width="9"
+       height="2.154736"
+       x="46.055202"
+       y="49.887482"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.723568"
+       y="51.366547"
+       id="text10925-5-8-4-5-9-2-8-9"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-6-9-1-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.723568"
+         y="51.366547">GPIO  2</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-3-9-3-7-5-0"
+       width="9"
+       height="2.154736"
+       x="46.076698"
+       y="54.963852"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="46.745064"
+       y="56.442917"
+       id="text10925-5-8-4-7-4-1-0-7-8"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-3-7-1-1-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="46.745064"
+         y="56.442917">GPIO  4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="140.0961"
+       y="37.399986"
+       id="text10925-5-8-45-9-0-6"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-5-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="140.0961"
+         y="37.399986">Output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="150.21988"
+       y="37.399986"
+       id="text10925-5-8-45-9-0-6-5"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-5-9-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="150.21988"
+         y="37.399986">Input</tspan></text>
+    <rect
+       style="fill:#808080;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-0-6-7"
+       width="9"
+       height="2.154736"
+       x="157.5332"
+       y="67.364952"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="158.20157"
+       y="68.844017"
+       id="text10925-5-8-0-0-8"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-1-58-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="158.20157"
+         y="68.844017">XTAL 32</tspan></text>
+    <rect
+       style="fill:#808080;stroke:none;stroke-width:0.145264;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.60385"
+       id="rect7205-0-4-5-4-3-5"
+       width="9"
+       height="2.154736"
+       x="157.54407"
+       y="69.903137"
+       rx="0.18048446"
+       ry="0.18048446"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="158.21243"
+       y="71.382202"
+       id="text10925-5-8-4-5-92-5"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-9-6-94-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="158.21243"
+         y="71.382202">XTAL 32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="58.159439"
+       y="37.399986"
+       id="text10925-5-8-45-9-0-6-59"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-5-9-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="58.159439"
+         y="37.399986">Output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+       x="48.851166"
+       y="37.399986"
+       id="text10925-5-8-45-9-0-6-5-4"
+       inkscape:export-filename="D:\data\makerspace\1rpc\projects\electronic\pcb-1\graphic\MSB-PCB-1R1-Pins-Digital_IO.png"
+       inkscape:export-xdpi="299.82047"
+       inkscape:export-ydpi="299.82047"><tspan
+         sodipodi:role="line"
+         id="tspan10923-3-4-0-5-9-1-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';fill:#000000;stroke-width:0.264583"
+         x="48.851166"
+         y="37.399986">Input</tspan></text>
+  </g>
+</svg>

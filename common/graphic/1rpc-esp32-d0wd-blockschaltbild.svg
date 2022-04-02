@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="194.62482mm"
+   height="144.72165mm"
+   viewBox="0 0 194.62482 144.72165"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="1rpc-esp32-d0wd-blockschaltbild.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.343194"
+     inkscape:cx="16.006622"
+     inkscape:cy="96.039735"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     lock-margins="true"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <defs
+     id="defs2">
+    <rect
+       x="477.2207"
+       y="-61.048515"
+       width="64.316719"
+       height="110.39428"
+       id="rect112655" />
+    <rect
+       x="-250.15001"
+       y="291.84167"
+       width="944.01849"
+       height="373.73602"
+       id="rect36149" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.8700647,-11.592449)">
+    <g
+       id="g8337-9"
+       transform="translate(-196.63077,-8.887154)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-62"
+         width="31.386734"
+         height="6.3088689"
+         x="-129.89818"
+         y="35.874275"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-128.57271"
+         y="40.58234"
+         id="text2527-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-128.57271"
+           y="40.58234">Touch Sensor</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+       id="rect950-9-6-0"
+       width="31.386734"
+       height="6.3088689"
+       x="-326.52893"
+       y="-61.073792"
+       ry="1.9848623"
+       rx="2.1143725" />
+    <g
+       id="g20323-3"
+       transform="translate(-195.25337,-45.006372)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-6-2"
+         width="31.386734"
+         height="6.3088689"
+         x="-131.27557"
+         y="-6.2828717"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-118.8207"
+         y="-1.5642217"
+         id="text2527-2-4-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-118.8207"
+           y="-1.5642217">I²C</tspan></text>
+    </g>
+    <g
+       id="g15280-19"
+       transform="translate(-198.38199,-68.872894)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-58"
+         width="31.386734"
+         height="6.3088689"
+         x="-128.14696"
+         y="37.152744"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-117.93574"
+         y="41.860809"
+         id="text2527-2-4-0-35"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809">SDIO</tspan></text>
+    </g>
+    <g
+       id="g19760-6"
+       transform="translate(-188.26355,-81.460053)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-7-6"
+         width="31.386734"
+         height="6.3088689"
+         x="-138.2654"
+         y="59.524448"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-128.72516"
+         y="64.232513"
+         id="text2527-2-4-1-5"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-92-1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-128.72516"
+           y="64.232513">UART</tspan></text>
+    </g>
+    <g
+       id="g27716-9"
+       transform="translate(-142.15974,-55.414793)">
+      <g
+         id="g15280-8-2"
+         transform="translate(-56.222245,35.464625)">
+        <rect
+           style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+           id="rect950-9-6-9-8-1"
+           width="31.386734"
+           height="6.3088689"
+           x="-128.14696"
+           y="37.152744"
+           ry="1.9848623"
+           rx="2.1143725" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809"
+           id="text2527-2-4-0-7-1"><tspan
+             sodipodi:role="line"
+             id="tspan2525-2-6-9-4-3"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809">PWM</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g15280-7-8"
+       transform="translate(-299.22535,-75.315861)">
+      <g
+         id="g22778-1"
+         transform="translate(100.84336,35.796606)">
+        <rect
+           style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+           id="rect950-9-6-9-4-9"
+           width="31.386734"
+           height="6.3088689"
+           x="-128.14696"
+           y="37.152744"
+           ry="1.9848623"
+           rx="2.1143725" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809"
+           id="text2527-2-4-0-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2525-2-6-9-9-8"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809">ETH</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g15280-4-7"
+       transform="translate(-198.38199,-29.734712)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-7-4"
+         width="31.386734"
+         height="6.3088689"
+         x="-128.14696"
+         y="37.152744"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-117.93574"
+         y="41.860809"
+         id="text2527-2-4-0-70-7"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-43-9"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809">RMT</tspan></text>
+    </g>
+    <g
+       id="g20299-5"
+       transform="translate(-46.60927,7.160595)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-5-7"
+         width="31.386734"
+         height="6.3088689"
+         x="-279.91968"
+         y="-19.311657"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-269.70847"
+         y="-14.603593"
+         id="text2527-2-4-0-6-1"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-269.70847"
+           y="-14.603593">TWAI</tspan></text>
+    </g>
+    <g
+       id="g15280-71-8"
+       transform="translate(-198.38199,-0.381073)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-3-4"
+         width="31.386734"
+         height="6.3088689"
+         x="-128.14696"
+         y="37.152744"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-117.93574"
+         y="41.860809"
+         id="text2527-2-4-0-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-8-7"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809">DAC</tspan></text>
+    </g>
+    <g
+       id="g15280-1-6"
+       transform="translate(-198.38199,9.403471)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-89-2"
+         width="31.386734"
+         height="6.3088689"
+         x="-128.14696"
+         y="37.152744"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-117.93574"
+         y="41.860809"
+         id="text2527-2-4-0-9-5"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-117.93574"
+           y="41.860809">ADC</tspan></text>
+    </g>
+    <g
+       id="g33259-9"
+       transform="translate(-83.99803,-21.254928)">
+      <rect
+         style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+         id="rect950-9-6-9-2-5"
+         width="31.386734"
+         height="6.3088689"
+         x="-242.53091"
+         y="77.595695"
+         ry="1.9848623"
+         rx="2.1143725" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="-234.05113"
+         y="82.339745"
+         id="text2527-2-4-0-702-7"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-9-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="-234.05113"
+           y="82.339745">Timers</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text36147"
+       style="font-size:16px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';white-space:pre;shape-inside:url(#rect36149)" />
+    <g
+       id="g132045">
+      <rect
+         style="fill:#356697;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.425"
+         id="rect846"
+         width="184.62482"
+         height="134.72165"
+         x="8.8700647"
+         y="16.592449"
+         ry="5.9094214"
+         rx="5.9094219" />
+      <g
+         id="g33315"
+         transform="translate(144.16143,35.796606)">
+        <g
+           id="g8337"
+           transform="translate(-0.56718621,38.630582)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9"
+             width="31.386734"
+             height="6.3088689"
+             x="-129.89818"
+             y="35.874275"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-128.57271"
+             y="40.58234"
+             id="text2527-2"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-128.57271"
+               y="40.58234">Touch Sensor</tspan></text>
+        </g>
+        <g
+           id="g10423"
+           transform="translate(10.45851,-49.430329)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6"
+             width="31.386734"
+             height="6.3088689"
+             x="-140.92387"
+             y="35.874275"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-128.57271"
+             y="40.58234"
+             id="text2527-2-4"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-128.57271"
+               y="40.58234">SPI</tspan></text>
+        </g>
+        <g
+           id="g20323"
+           transform="translate(0.81020942,2.5113643)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-6"
+             width="31.386734"
+             height="6.3088689"
+             x="-131.27557"
+             y="-6.2828717"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-118.8207"
+             y="-1.5642217"
+             id="text2527-2-4-4"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-7"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-118.8207"
+               y="-1.5642217">I²C</tspan></text>
+        </g>
+        <g
+           id="g20331"
+           transform="translate(0.59448066,5.4192038)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-4"
+             width="31.386734"
+             height="6.3088689"
+             x="-131.05984"
+             y="0.59383422"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-118.38273"
+             y="5.3018994"
+             id="text2527-2-4-3"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-2"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-118.38273"
+               y="5.3018994">I²S</tspan></text>
+        </g>
+        <g
+           id="g15280"
+           transform="translate(-2.3184069,-21.355158)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9"
+             width="31.386734"
+             height="6.3088689"
+             x="-128.14696"
+             y="37.152744"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809"
+             id="text2527-2-4-0"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809">SDIO</tspan></text>
+        </g>
+        <g
+           id="g19760"
+           transform="translate(7.8000318,-33.942317)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-7"
+             width="31.386734"
+             height="6.3088689"
+             x="-138.2654"
+             y="59.524448"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-128.72516"
+             y="64.232513"
+             id="text2527-2-4-1"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-92"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-128.72516"
+               y="64.232513">UART</tspan></text>
+        </g>
+        <g
+           id="g27716"
+           transform="translate(53.903838,-7.8970571)">
+          <g
+             id="g15280-8"
+             transform="translate(-56.222245,35.464625)">
+            <rect
+               style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+               id="rect950-9-6-9-8"
+               width="31.386734"
+               height="6.3088689"
+               x="-128.14696"
+               y="37.152744"
+               ry="1.9848623"
+               rx="2.1143725" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809"
+               id="text2527-2-4-0-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan2525-2-6-9-4"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+                 x="-117.93574"
+                 y="41.860809">PWM</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g15280-7"
+           transform="translate(-103.16177,-27.798125)">
+          <g
+             id="g22778"
+             transform="translate(100.84336,35.796606)">
+            <rect
+               style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+               id="rect950-9-6-9-4"
+               width="31.386734"
+               height="6.3088689"
+               x="-128.14696"
+               y="37.152744"
+               ry="1.9848623"
+               rx="2.1143725" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809"
+               id="text2527-2-4-0-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan2525-2-6-9-9"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+                 x="-117.93574"
+                 y="41.860809">ETH</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g15280-4"
+           transform="translate(-2.3184069,17.783024)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9-7"
+             width="31.386734"
+             height="6.3088689"
+             x="-128.14696"
+             y="37.152744"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809"
+             id="text2527-2-4-0-70"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9-43"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809">RMT</tspan></text>
+        </g>
+        <g
+           id="g20299"
+           transform="translate(149.45431,54.678331)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9-5"
+             width="31.386734"
+             height="6.3088689"
+             x="-279.91968"
+             y="-19.311657"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-269.70847"
+             y="-14.603593"
+             id="text2527-2-4-0-6"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9-5"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-269.70847"
+               y="-14.603593">TWAI</tspan></text>
+        </g>
+        <g
+           id="g15280-71"
+           transform="translate(-2.3184069,47.136663)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9-3"
+             width="31.386734"
+             height="6.3088689"
+             x="-128.14696"
+             y="37.152744"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809"
+             id="text2527-2-4-0-3"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9-8"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809">DAC</tspan></text>
+        </g>
+        <g
+           id="g15280-1"
+           transform="translate(-2.3184069,56.921207)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9-89"
+             width="31.386734"
+             height="6.3088689"
+             x="-128.14696"
+             y="37.152744"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-117.93574"
+             y="41.860809"
+             id="text2527-2-4-0-9"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9-3"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-117.93574"
+               y="41.860809">ADC</tspan></text>
+        </g>
+        <g
+           id="g33259"
+           transform="translate(112.06555,26.262808)">
+          <rect
+             style="fill:#ffcc00;stroke-width:0.25;stroke-dasharray:2, 0.499999, 0.25, 0.499999;stroke-dashoffset:0.425"
+             id="rect950-9-6-9-2"
+             width="31.386734"
+             height="6.3088689"
+             x="-242.53091"
+             y="77.595695"
+             ry="1.9848623"
+             rx="2.1143725" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="-234.05113"
+             y="82.339745"
+             id="text2527-2-4-0-702"><tspan
+               sodipodi:role="line"
+               id="tspan2525-2-6-9-7"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+               x="-234.05113"
+               y="82.339745">Timers</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g50808"
+         transform="translate(-14.841904,4.6182905)">
+        <rect
+           style="fill:#55d400;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+           id="rect846-5"
+           width="96.413429"
+           height="36.127495"
+           x="63.984879"
+           y="105.21819"
+           ry="5.9094214"
+           rx="5.9094214" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+           x="93.317329"
+           y="113.82561"
+           id="text2527-2-4-39"><tspan
+             sodipodi:role="line"
+             id="tspan2525-2-6-8"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+             x="93.317329"
+             y="113.82561">RTC - Echtzeituhr</tspan></text>
+        <g
+           id="g49323">
+          <rect
+             style="fill:#99ff55;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+             id="rect846-5-2"
+             width="19.666618"
+             height="16.430052"
+             x="67.401001"
+             y="119.46998"
+             ry="5.9094214"
+             rx="5.9094214" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="72.7612"
+             y="129.17639"
+             id="text46997"><tspan
+               sodipodi:role="line"
+               id="tspan46995"
+               style="stroke-width:0.264583"
+               x="72.7612"
+               y="129.17639">PMU</tspan></text>
+        </g>
+        <g
+           id="g49318">
+          <rect
+             style="fill:#99ff55;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+             id="rect846-5-2-3"
+             width="36.938133"
+             height="16.430052"
+             x="90.549782"
+             y="119.46998"
+             ry="5.9094214"
+             rx="5.9094214" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="95.973663"
+             y="126.16055"
+             id="text46997-5"><tspan
+               sodipodi:role="line"
+               id="tspan46995-3"
+               style="stroke-width:0.264583"
+               x="95.973663"
+               y="126.16055">ULP</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.264583"
+               x="95.973663"
+               y="131.45221"
+               id="tspan48704">Coprozessor</tspan></text>
+        </g>
+        <g
+           id="g50789">
+          <rect
+             style="fill:#99ff55;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+             id="rect846-5-2-3-2"
+             width="27.884518"
+             height="16.430052"
+             x="130.28882"
+             y="119.37132"
+             ry="5.9094214"
+             rx="5.9094214" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+             x="134.89729"
+             y="126.0619"
+             id="text46997-5-0"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.264583"
+               x="134.89729"
+               y="126.0619"
+               id="tspan48704-9">Recovery</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.264583"
+               x="134.89729"
+               y="131.35356"
+               id="tspan49709">Memory</tspan></text>
+        </g>
+      </g>
+      <rect
+         style="fill:#00ffff;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+         id="rect846-5-1"
+         width="96.413429"
+         height="36.127495"
+         x="49.142975"
+         y="66.038513"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="82.10762"
+         y="74.645927"
+         id="text2527-2-4-39-2"><tspan
+           sodipodi:role="line"
+           id="tspan2525-2-6-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+           x="82.10762"
+           y="74.645927">Prozessorkern</tspan></text>
+      <rect
+         style="fill:#a6ffff;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+         id="rect846-5-2-5"
+         width="19.666618"
+         height="16.430052"
+         x="52.559097"
+         y="80.290298"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="57.919296"
+         y="89.996712"
+         id="text46997-2"><tspan
+           sodipodi:role="line"
+           id="tspan46995-7"
+           style="stroke-width:0.264583"
+           x="57.919296"
+           y="89.996712">ROM</tspan></text>
+      <rect
+         style="fill:#a6ffff;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+         id="rect846-5-2-5-6"
+         width="19.666618"
+         height="16.430052"
+         x="124.06749"
+         y="80.290298"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="128.23189"
+         y="89.996712"
+         id="text46997-2-4"><tspan
+           sodipodi:role="line"
+           id="tspan46995-7-6"
+           style="stroke-width:0.264583"
+           x="128.23189"
+           y="89.996712">SRAM</tspan></text>
+      <rect
+         style="fill:#a6ffff;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+         id="rect846-5-2-3-1"
+         width="48.359619"
+         height="16.430052"
+         x="73.966789"
+         y="80.290298"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="79.390671"
+         y="86.980873"
+         id="text46997-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan46995-3-6"
+           style="stroke-width:0.264583"
+           x="79.390671"
+           y="86.980873">2 Xtensa LX6 32-Bit</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="79.390671"
+           y="92.272537"
+           id="tspan48704-6">Mikroprozessoren</tspan></text>
+      <g
+         id="g91207"
+         transform="translate(-104.16974,-47.597438)">
+        <rect
+           style="fill:#008dff;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+           id="rect846-5-1-5"
+           width="96.413429"
+           height="36.127495"
+           x="153.31271"
+           y="69.83799"
+           ry="5.9094214"
+           rx="5.9094214" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="201.6422"
+           y="76.773964"
+           id="text2527-2-4-39-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2525-2-6-8-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="201.6422"
+             y="76.773964">Verschlüsselungs-</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="201.6422"
+             y="82.083397"
+             id="tspan74345">beschleunigung</tspan></text>
+        <g
+           id="g91164"
+           transform="translate(-0.40364033)">
+          <g
+             id="g91146"
+             transform="translate(0,0.78792289)">
+            <rect
+               style="fill:#8fd5fc;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+               id="rect846-5-2-5-69"
+               width="19.666618"
+               height="16.430052"
+               x="158.30159"
+               y="85.482635"
+               ry="5.9094214"
+               rx="5.9094214" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="163.66179"
+               y="95.189049"
+               id="text46997-2-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan46995-7-5"
+                 style="stroke-width:0.264583"
+                 x="163.66179"
+                 y="95.189049">SHA</tspan></text>
+          </g>
+          <g
+             id="g91141"
+             transform="translate(0.26907272,0.78792289)">
+            <rect
+               style="fill:#8fd5fc;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+               id="rect846-5-2-5-69-5"
+               width="19.666618"
+               height="16.430052"
+               x="180.55797"
+               y="85.482635"
+               ry="5.9094214"
+               rx="5.9094214" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="185.91817"
+               y="95.189049"
+               id="text46997-2-7-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan46995-7-5-3"
+                 style="stroke-width:0.264583"
+                 x="185.91817"
+                 y="95.189049">AES</tspan></text>
+          </g>
+          <g
+             id="g91136"
+             transform="translate(0.53817774,0.78792289)">
+            <rect
+               style="fill:#8fd5fc;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+               id="rect846-5-2-5-69-55"
+               width="19.666618"
+               height="16.430052"
+               x="202.8143"
+               y="85.482635"
+               ry="5.9094214"
+               rx="5.9094214" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="208.1745"
+               y="95.189049"
+               id="text46997-2-7-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan46995-7-5-8"
+                 style="stroke-width:0.264583"
+                 x="208.1745"
+                 y="95.189049">RNG</tspan></text>
+          </g>
+          <g
+             id="g91131"
+             transform="translate(2.3637687,0.78792289)">
+            <rect
+               style="fill:#8fd5fc;fill-opacity:1;stroke-width:0.25;stroke-dasharray:2, 0.499998, 0.25, 0.499998;stroke-dashoffset:0.424999"
+               id="rect846-5-2-5-6-5"
+               width="19.666618"
+               height="16.430052"
+               x="223.51416"
+               y="85.482635"
+               ry="5.9094214"
+               rx="5.9094214" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+               x="229.23506"
+               y="95.189049"
+               id="text46997-2-4-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan46995-7-6-1"
+                 style="stroke-width:0.264583"
+                 x="229.23506"
+                 y="95.189049">RSA</tspan></text>
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:#d38d5f;fill-opacity:1;stroke-width:0.250001;stroke-dasharray:2.00001, 0.499998, 0.250001, 0.499998;stroke-dashoffset:0.424999"
+         id="rect846-5-2-5-69-2"
+         width="38.77375"
+         height="53.068466"
+         x="149.61658"
+         y="92.895515"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="159.17876"
+         y="120.66594"
+         id="text46997-2-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan46995-7-5-6"
+           style="stroke-width:0.264583"
+           x="159.17876"
+           y="120.66594">Bluetooth</tspan></text>
+      <rect
+         style="fill:#ffb380;fill-opacity:1;stroke-width:0.250001;stroke-dasharray:1.99999, 0.5, 0.250001, 0.5;stroke-dashoffset:0.424999"
+         id="rect846-5-2-5-69-2-5"
+         width="38.77375"
+         height="61.932598"
+         x="149.62259"
+         y="22.240551"
+         ry="5.9094214"
+         rx="5.9094214" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';stroke-width:0.264583"
+         x="155.96532"
+         y="54.812954"
+         id="text46997-2-7-7-8"><tspan
+           sodipodi:role="line"
+           id="tspan46995-7-5-6-2"
+           style="stroke-width:0.264583"
+           x="155.96532"
+           y="54.812954">Wireless LAN</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text112653"
+       style="font-size:16px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';white-space:pre;shape-inside:url(#rect112655)" />
+  </g>
+</svg>

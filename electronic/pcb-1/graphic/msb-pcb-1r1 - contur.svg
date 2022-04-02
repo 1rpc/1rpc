@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.999989mm"
+   height="50.999996mm"
+   viewBox="0 0 50.999989 50.999996"
+   version="1.1"
+   id="svg1270"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="msb-pcb-1r1 - contur.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1272"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.38885732"
+     inkscape:cx="398.60378"
+     inkscape:cy="794.63593"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1267" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1367-9-8"
+       style="opacity:0.998786;fill:none;stroke:#000000;stroke-width:0.145264;stroke-dasharray:1.16212, 0.290529, 0.145264, 0.290529;stroke-dashoffset:0.246949;stroke-opacity:1"
+       d="m 2.8216203,0.07263185 45.2397547,0.09203 c 0.7881,-0.01909 2.83879,0.577365 2.84201,2.77040695 l 0.0239,10.2257442 -2.99667,2.930601 c -0.18584,0.207251 -0.28528,0.407857 -0.30875,0.602637 l -0.0824,18.035576 3.24359,3.438266 0.003,9.936621 c -0.0102,0.387951 -0.275,0.498462 -0.29706,0.972241 -0.0321,0.688654 -1.25109,1.817533 -2.23244,1.850609 H 3.4013073 C 1.0460123,50.901784 0.09020425,48.987909 0.10052825,48.423095 V 37.933256 L 3.3059313,34.78662 3.2882813,16.178066 0.07271325,13.006338 0.10052325,2.6032918 C 0.34531225,0.92415985 1.3415963,0.19324485 2.8216153,0.07267185 Z"
+       sodipodi:nodetypes="cccccccccsccccccccc" />
+  </g>
+</svg>
