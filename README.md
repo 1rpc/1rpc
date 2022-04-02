@@ -1,6 +1,6 @@
 # One Robot Per Child - Main Repository
 
-__*One robot per child* is a german initiave startet from makerspace bonn to increase technical scills of german pupils. So at the moment the  project is complely described and documented only in german language!__
+__*One robot per child* is a german initiave startet from makerspace Bonn to increase technical scills of german pupils. So at the moment the  project is complely described and documented only in german language!__
 
 In diesem Repository sind alle Informationen gebündelt, die man benötigt um mit unserem Kit eigene Projekte umzusetzen und vorhandene Informationen zu erhalten. 
 
